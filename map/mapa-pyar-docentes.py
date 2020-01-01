@@ -40,7 +40,7 @@ def color_icon(key):
 # In[122]:
 
 
-py_map = folium.Map(location=[-34.6131500, -58.3772300], 
+py_map = folium.Map(location=[-40.38, -67.15], 
                     zoom_start=3.5)
 for docente in data_map['docentes']:
     lat = docente['ubicacion']['latitud']
