@@ -34,10 +34,10 @@ py_map = folium.Map(
     min_zoom=3,
     max_zoom=18,
     zoom_start=3.5,
-    min_lat=-60,
-    max_lat=-20,
-    min_lon=-70,
-    max_lon=-50,
+    min_lat=-56.3,
+    max_lat=-21.4,
+    min_lon=-77.4,
+    max_lon=-52.7,
 )
 for docente in data_map["docentes"]:
     lat = docente["ubicacion"]["latitud"]
