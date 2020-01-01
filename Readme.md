@@ -38,6 +38,8 @@
 
 * **Ejecutar el script** `map/mapa-pyar-docentes.py`
 
+`cd map`
+
 `python mapa-pyar-docentes.py`
 
 * Agregar los cambios:
