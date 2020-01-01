@@ -1,0 +1,83 @@
+---
+docentes:
+- nombre: 'Bibiana'
+  ubicacion:
+    latitud: -33.13067
+    longitud: -64.34992
+  lugar:
+    #'academia'
+    'particular'
+    #'escuela/universidad'
+    #'remoto'
+    #'otro'
+  nivel:
+    #'basico'
+    'intermedio'
+    #'avanzado'
+  contacto: 'bibiana.rivadeneira@gmail.com'
+  
+- nombre: 'Profe prueba'
+  ubicacion:
+    latitud: -34.6131500 
+    longitud: -58.3772300
+  lugar:
+    #'academia'
+    #'particular'
+    #'escuela/universidad'
+    'remoto'
+    #'otro'
+  nivel:
+    #'basico'
+    'intermedio'
+    #'avanzado'
+  contacto: 'prueba@prueba'
+  
+- nombre: 'Profe prueba'
+  ubicacion:
+    latitud: -24.1833 
+    longitud: -65.3
+  lugar:
+    'academia'
+    #'particular'
+    #'escuela/universidad'
+    #'remoto'
+    #'otro'
+  nivel:
+    'basico'
+    #'intermedio'
+    #'avanzado'
+  contacto: 'prueba@prueba'
+  
+- nombre: 'Profe prueba'
+  ubicacion:
+    latitud: -54.7999992 
+    longitud: -68.3000031
+  lugar:
+    #'academia'
+    #'particular'
+    'escuela/universidad'
+    #'remoto'
+    #'otro'
+  nivel:
+    #'basico'
+    #'intermedio'
+    'avanzado'
+  contacto: 'prueba@prueba'
+  
+# copiar desde acá
+#- nombre: ''
+#  ubicacion:
+#   latitud: 
+#    longitud:
+#  lugar:
+    #'academia'
+    #'particular'
+    #'escuela/universidad'
+    #'remoto'
+    #'otro'
+#  nivel:
+    #'basico'
+    #'intermedio'
+    #'avanzado'
+#  contacto: ''
+# hasta acá
