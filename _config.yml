@@ -1,7 +1,7 @@
 # Site settings
 title: Mapa PyAr Docentes
 description: Encontrá a tu profe de Python
-baseurl: "/mapa-pyardocentes" # the subpath of your site, e.g. /blog
+baseurl: "/mapa-pyar-docentes" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
