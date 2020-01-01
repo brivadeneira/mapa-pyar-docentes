@@ -19,7 +19,7 @@
 ```yaml
 - nombre: ''
   ubicacion:
-    latitud: 
+    latitud:
     longitud:
   lugar:
     #'academia'
@@ -38,17 +38,18 @@
 
 * **Ejecutar el script** `map/mapa-pyar-docentes.py`
 
-`cd map`
-
-`python mapa-pyar-docentes.py`
+``` bash
+cd map
+python mapa-pyar-docentes.py
+```
 
 * Agregar los cambios:
 
-`git add map/data.yaml map/mapa-pyar-docentes.py`
-
-`git commit -m 'punto del profe <nombre del profe> agregado'`
-
-`git push`
+``` bash
+git add map/data.yaml map/mapa-pyar-docentes.py
+git commit -m 'punto del profe <nombre del profe> agregado'
+git push
+```
 
 * Hacer un **pull request**
 
